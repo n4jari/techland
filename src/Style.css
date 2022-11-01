@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Vazir";
+  src: url("./Helper/font/Vazir.eot");
+  src: url("./Helper/font/Vazir.eot?#iefix") format("embedded-opentype"),
+    url("./Helper/font/Vazir.woff2") format("woff2"),
+    url("./Helper/font/Vazir.woff") format("woff"),
+    url("./Helper/font/Vazir.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Vazir !important;
+  margin: 0;
+  padding: 0;
+}

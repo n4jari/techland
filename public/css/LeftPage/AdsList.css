@@ -1,0 +1,25 @@
+.ads_list {
+  background: #f1faee;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-bottom: 1vw;
+  padding: 1vw;
+}
+
+.ads_list img {
+  border-radius: 6px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  width: 90%;
+  display: block;
+  margin: 1vw auto;
+}
+@media screen and (max-width: 600px) {
+  .ads_list {
+    margin: 0vw 3vw 3vw 3vw;
+
+    padding: 4vw;
+  }
+  .ads_list img {
+    width: 90%;
+  }
+}
