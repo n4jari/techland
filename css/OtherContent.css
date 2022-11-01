@@ -1,0 +1,53 @@
+.otherContent .card {
+  padding: 1vw;
+  margin-bottom: 1vw;
+}
+.otherContent .card-title {
+  font-size: 1.2vw;
+  font-weight: bold;
+}
+
+.otherContent .card-text {
+  font-size: 1vw;
+}
+.otherContent .card-text button {
+  font-size: 1vw;
+}
+
+@media screen and (max-width: 900px) {
+  .otherContent .card-title {
+    font-size: 1.8vw;
+    font-weight: bold;
+  }
+
+  .otherContent .card-text {
+    font-size: 1.4vw;
+  }
+  .otherContent .card-text button {
+    font-size: 1.3vw;
+    width: 15%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .otherContent .card {
+    padding: 2vw;
+    margin: 2vw 3vw 3vw 3vw;
+  }
+
+  .otherContent .card img {
+    width: 100%;
+  }
+  .otherContent .card-title {
+    font-size: 4vw;
+  }
+
+  .otherContent .card-text {
+    font-size: 3vw;
+  }
+  .otherContent .card-text button {
+    font-size: 3vw;
+    width: 50%;
+    display: block;
+    margin: auto;
+  }
+}

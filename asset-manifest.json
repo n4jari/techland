@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/techland/static/css/main.154fd50e.css",
+    "main.js": "/techland/static/js/main.ce447be8.js",
+    "static/media/1.mp4": "/techland/static/media/1.73d2792cb520e55c9a36.mp4",
+    "static/media/3.mp4": "/techland/static/media/3.c1f9dbf63be9bf1b12a4.mp4",
+    "static/media/2.mp4": "/techland/static/media/2.106756e4c932d16131a8.mp4",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/techland/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/book2019.jpg": "/techland/static/media/book2019.7da602b5e7154b772d48.jpg",
+    "static/media/fontawesome-webfont.eot": "/techland/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/techland/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/3.jpg": "/techland/static/media/3.6bb50eedaf953fe5d876.jpg",
+    "static/media/1.jpg": "/techland/static/media/1.e0669a33f742bfe94f97.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/techland/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Vazir.eot": "/techland/static/media/Vazir.6c272e56b9302523bc7f.eot",
+    "static/media/Vazir.ttf": "/techland/static/media/Vazir.0711ed82f416ab210a1c.ttf",
+    "static/media/1.gif": "/techland/static/media/1.d697e759a0f76ecd0168.gif",
+    "static/media/2.jpg": "/techland/static/media/2.3d6f8c283069a10a3eb6.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/techland/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/2.gif": "/techland/static/media/2.afd906eaa1e1668ad87e.gif",
+    "static/media/Vazir.woff": "/techland/static/media/Vazir.146ce63184de3e360edf.woff",
+    "static/media/ads1.jpg": "/techland/static/media/ads1.c235445dbae49b8fd471.jpg",
+    "static/media/ads2.jpg": "/techland/static/media/ads2.934e46700abe831210bb.jpg",
+    "static/media/Vazir.woff2": "/techland/static/media/Vazir.75f8abb4cee626146584.woff2",
+    "static/media/password.jpg": "/techland/static/media/password.308d3ac59f3fd614bf47.jpg",
+    "static/media/4.jpg": "/techland/static/media/4.d551910049fce40667c9.jpg",
+    "static/media/cellphone.jpg": "/techland/static/media/cellphone.9f19b907b2479d52053f.jpg",
+    "static/media/Untitled-1-2-284x180.jpg": "/techland/static/media/Untitled-1-2-284x180.851b4df62fa4b7624a14.jpg",
+    "static/media/cook.jpg": "/techland/static/media/cook.a47d12e28a5e74b1bbe5.jpg",
+    "static/media/movie.jpg": "/techland/static/media/movie.e7173c27ad3bc44cf2bf.jpg",
+    "static/media/book.jpg": "/techland/static/media/book.f2d1dc05c32ef4a964a8.jpg",
+    "static/media/duststorm.jpg": "/techland/static/media/duststorm.f219dad07c2b1bfd99ba.jpg",
+    "static/media/PS5_Logo_1-284x180.jpg": "/techland/static/media/PS5_Logo_1-284x180.d8eba3487689b4b1ddec.jpg",
+    "index.html": "/techland/index.html",
+    "main.154fd50e.css.map": "/techland/static/css/main.154fd50e.css.map",
+    "main.ce447be8.js.map": "/techland/static/js/main.ce447be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154fd50e.css",
+    "static/js/main.ce447be8.js"
+  ]
+}
